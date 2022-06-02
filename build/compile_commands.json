@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Buffer.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Buffer.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Buffer.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Camera.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Camera.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Camera.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Chunk.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Chunk.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Chunk.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Input.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Input.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Input.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Shader.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Shader.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Shader.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Texture.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Texture.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Texture.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/VertexArray.cpp.o -c /home/jiale/Workspace/minecraftClone/src/VertexArray.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/VertexArray.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/Window.cpp.o -c /home/jiale/Workspace/minecraftClone/src/Window.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/Window.cpp"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/cc  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/glad.c.o -c /home/jiale/Workspace/minecraftClone/src/glad.c",
+  "file": "/home/jiale/Workspace/minecraftClone/src/glad.c"
+},
+{
+  "directory": "/home/jiale/Workspace/minecraftClone/build",
+  "command": "/usr/bin/c++  -I/home/jiale/Workspace/minecraftClone/include  -o CMakeFiles/minecraft.dir/src/main.cpp.o -c /home/jiale/Workspace/minecraftClone/src/main.cpp",
+  "file": "/home/jiale/Workspace/minecraftClone/src/main.cpp"
+}
+]

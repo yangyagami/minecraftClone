@@ -1,0 +1,3 @@
+/home/jiale/Workspace/minecraftClone/build/CMakeFiles/minecraft.dir
+/home/jiale/Workspace/minecraftClone/build/CMakeFiles/edit_cache.dir
+/home/jiale/Workspace/minecraftClone/build/CMakeFiles/rebuild_cache.dir
